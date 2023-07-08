@@ -179,8 +179,19 @@ body >div {
         margin-top: 40px;
        
     }
+
     #toast {
         top: 30px;
         right: 10px;
     }
+
+    .toast {
+        min-width: 350px;
+       
+    }
+
+    
 }
+
+
+
